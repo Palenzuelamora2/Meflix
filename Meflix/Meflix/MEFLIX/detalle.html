@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PeliculasMeflix</title>
+    <link rel="stylesheet" href="estilos/estilos_peliculas/main.css">
+    <script src="js/detalle.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body class="container">
+    <div class="player-container">
+        <button class="volver-btn"><a href="index.html">⬅ Volver</a> </button>
+        <video id="trailer" controls loop>
+            <source src="videos/El Padrino_ 50 años  - Tráiler oficial - Descúbrela en cines, febrero 24.mp4"
+                type="video/mp4">
+        </video>
+
+    </div>
+    <div class="descripcion_pelicula">
+        <h1>El Padrino</h1>
+        <ul>
+            <li>
+                <h3>1972</h3>
+            </li>
+            <li>
+                <div>
+                    <h3>+18</h3>
+                </div>
+            </li>
+            <li>
+                <h3>2h 55m</h3>
+            </li>
+        </ul>
+        <div class="botones">
+            <button type="button" class="btn btn-light boton_reproducir"><i
+                    class="bi bi-play-fill"></i>Reproducir</button>
+            <button type="button" class="btn btn-light boton_descargar"><i class="bi bi-download"></i>Descargar</button>
+            <p>Verano de 1945. Vito Corleone, cabeza de la familia más importante de la Cosa Nostra de Nueva York
+                celebra
+                por todo lo alto la boda de su hija Connie, debiendo atender las peticiones que le hacen ese día,
+                por lo que
+                recibe las visitas entre otros de Bonasera, dueño de una funeraria que pide vengue la violación de
+                su hija.
+
+                En la fiesta participa también Johnny Fontane, un famoso cantante, ahijado de Don Vito, que le pide
+                que le
+                ayude a conseguir el papel protagonista en una película que parece hecha para él, lo que le ayudaría
+                a
+                relanzar su carrera.
+
+                Tom Hagen, hijo adoptivo de Don Vito y abogado de la familia habla con el productor Jack Woltz,
+                aunque este
+                no cede. Lo hará tras despertar al día siguiente con la cabeza de su mejor caballo, un semental de
+                600.000
+                dólares, en su cama.
+            </p>
+            <ul class="valoraciones">
+                <li onclick=cambiarColor(this)><i class="bi bi-check-lg"></i></li>
+                <li onclick=cambiarColor(this)><i class="bi bi-journal-check"></i></li>
+                <li onclick=cambiarColor(this)><i class="bi bi-send"></i></li>
+            </ul>
+        </div>
+        <h1 class="similares">Similares</h1>
+        <hr>
+        <div id="similares">
+
+        </div>
+    </div>
+</body>
+
+</html>

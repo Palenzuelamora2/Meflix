@@ -1,0 +1,650 @@
+[
+    {
+        "id" : 1,
+        "titulo" : "Avengers",
+        "ano" : 2012,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://i.pinimg.com/736x/69/6d/d9/696dd9e70d854d0562f7d5e180f2f4a5.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 143
+    },
+    {
+        "id" : 2,
+        "titulo" : "Avengers 2",
+        "ano" : 2015,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://es.web.img3.acsta.net/pictures/15/02/25/10/37/363909.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 141
+    },
+    {
+        "id" : 3,
+        "titulo" : "Avengers Infinity War",
+        "ano" : 2018,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://es.web.img3.acsta.net/pictures/18/03/16/15/33/3988420.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 149
+    },
+    {
+        "id" : 4,
+        "titulo" : "Avengers End Game",
+        "ano" : 2019,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://pics.filmaffinity.com/Vengadores_Endgame-135478227-large.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 181
+    },
+    {
+        "id" : 5,
+        "titulo" : "Capitan America",
+        "ano" : 2011,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://pics.filmaffinity.com/Capitaan_Amaerica_El_primer_vengador-163477639-large.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 124
+    },
+    {
+        "id" : 6,
+        "titulo" : "Capitan America - El soldado del invierno",
+        "ano" : 2014,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://pics.filmaffinity.com/Capitaan_Amaerica_El_Soldado_de_Invierno-333149071-large.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 136
+    },
+    {
+        "id" : 7,
+        "titulo" : "Capitan America - Civil War",
+        "ano" : 2016,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://pics.filmaffinity.com/Capitaan_Amaerica_Civil_War-298011137-large.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 147
+    },
+    {
+        "id" : 8,
+        "titulo" : "Iron Man",
+        "ano" : 2008,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://pics.filmaffinity.com/Iron_Man-773611005-large.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 126
+    },
+    {
+        "id" : 9,
+        "titulo" : "Iron Man 2",
+        "ano" : 2010,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://pics.filmaffinity.com/Iron_Man_2-466103197-large.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 124
+    },
+    {
+        "id" : 10,
+        "titulo" : "Iron Man 3",
+        "ano" : 2013,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://pics.filmaffinity.com/Iron_Man_3-972235216-large.jpg",
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad.",
+        "duracion": 130
+    },
+    {
+        "id" : 11,
+        "titulo" : "Capitan America - Un Nuevo Mundo",
+        "ano" : 2025,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://www.infobae.com/new-resizer/VM9zrBqMwq0dNOdk0Z5kr2Mpgc0=/arc-anglerfish-arc2-prod-infobae/public/DYWG2KH3HZFWPLKR6LQ3ISSJKQ.jpg",
+        "descripcion" : "Una nueva aventura empieza con el capitan america , nace un nuevo heroe en la sociedad.",
+        "duracion": 135
+    },
+    {
+        "id": 12,
+        "titulo": "Mad Max: Furia en la carretera",
+        "ano": 2015,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/Mad_Max_Furia_en_la_carretera-542936842-large.jpg",
+        "descripcion": "En un mundo postapocalíptico, Max se une a Furiosa para escapar de un tirano y su ejército de warboys.",
+        "duracion": 120
+    },
+    {
+        "id": 14,
+        "titulo": "Gladiator",
+        "ano": 2000,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/Gladiator-368149580-large.jpg",
+        "descripcion": "Un general romano es traicionado y obligado a convertirse en gladiador para vengar la muerte de su familia.",
+        "duracion": 155
+    },
+    {
+        "id": 15,
+        "titulo": "Die Hard: La jungla de cristal",
+        "ano": 1988,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/Jungla_de_cristal-336213173-large.jpg",
+        "descripcion": "Un policía de Nueva York lucha contra terroristas que han tomado un rascacielos en Los Ángeles.",
+        "duracion": 132
+    },
+    {
+        "id": 16,
+        "titulo": "Terminator 2: El juicio final",
+        "ano": 1991,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/Terminator_2_El_juicio_final-825143697-large.jpg",
+        "descripcion": "Un cyborg del futuro es reprogramado para proteger a un joven de un nuevo y más peligroso asesino.",
+        "duracion": 137
+    },
+    {
+        "id": 17,
+        "titulo": "El caballero oscuro",
+        "ano": 2008,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/El_caballero_oscuro-102763119-large.jpg",
+        "descripcion": "Batman se enfrenta al Joker, un criminal que busca sumergir a Gotham en el caos.",
+        "duracion": 152
+    },
+    {
+        "id": 18,
+        "titulo": "Misión: Imposible – Nación Secreta",
+        "ano": 2015,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/Misiaon_Imposible_Naciaon_Secreta-224283177-large.jpg",
+        "descripcion": "Ethan Hunt y su equipo se enfrentan a una organización secreta entrenada para destruir al IMF.",
+        "duracion": 131
+    },
+    {
+        "id": 19,
+        "titulo": "El protector",
+        "ano": 2014,
+        "genero": "Accion",
+        "imagen": "https://m.media-amazon.com/images/I/618k48lyu4L._AC_UF894,1000_QL80_.jpg",
+        "descripcion": "Un exagente de la CIA se ve obligado a regresar al mundo del espionaje para rescatar a su hija secuestrada.",
+        "duracion": 132
+    },
+    {
+        "id": 20,
+        "titulo": "Venganza",
+        "ano": 2008,
+        "genero": "Accion",
+        "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/66/89/00/20198925.jpg",
+        "descripcion": "Un exagente de la CIA recurre a sus habilidades para rastrear y rescatar a su hija secuestrada en París.",
+        "duracion": 90
+    },
+    {
+        "id": 21,
+        "titulo": "El ultimátum de Bourne",
+        "ano": 2007,
+        "genero": "Accion",
+        "imagen": "https://m.media-amazon.com/images/I/715VRiYcnCL._AC_UF894,1000_QL80_.jpg",
+        "descripcion": "Jason Bourne busca descubrir la verdad detrás de su identidad mientras es perseguido por la CIA.",
+        "duracion": 115
+    },
+    {
+        "id": 22,
+        "titulo": "300",
+        "ano": 2006,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/300-676981574-large.jpg",
+        "descripcion": "La historia de los 300 espartanos que lucharon hasta la muerte contra el ejército persa en la Batalla de las Termópilas.",
+        "duracion": 117
+    },
+    {
+        "id": 23,
+        "titulo": "Kill Bill: Volumen 1",
+        "ano": 2003,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/Kill_Bill_Volumen_1-216872360-large.jpg",
+        "descripcion": "Una exasesina busca venganza contra su antiguo equipo y su líder, conocido como 'Bill'.",
+        "duracion": 111
+    },
+    {
+        "id": 24,
+        "titulo": "El protector 2",
+        "ano": 2016,
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/The_Equalizer_2-467654738-large.jpg",
+        "descripcion": "Un exagente de la CIA se ve obligado a regresar al mundo del espionaje para rescatar a su hija secuestrada.",
+        "duracion": 121
+    },
+    {
+        "id": 25,
+        "titulo": "El Conjuro 2",
+        "ano": 2016,
+        "genero": "Terror",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5qL9MmATBoMbppjWhwNQDbvxDw_XHywdhsa5R_MpeO1rZctiau2JeMMCJuNzbK_uBZxgHcIij5L9ScoPOzXiDb0rnzkRrzXb0avBLiaS20FWWoMAVL_mgJnlPUumbezePfoHAUGtyWdmV/s1000/conjuringpostersmall.jpg",
+        "descripcion": "Ed y Lorraine Warren investigan la presencia de espíritus malignos en una casa en Inglaterra.",
+        "duracion": "134"
+    },
+    {
+        "id": 26,
+        "titulo": "Hereditary",
+        "ano": 2018,
+        "genero": "Terror",
+        "imagen": "https://www.elsetantanou.com/imagenes/poridentidad?identidad=72ba2862-8b35-4b57-a668-225e11a0cb28&ancho=&alto=",
+        "descripcion": "Una familia comienza a desmoronarse después de la muerte de su matriarca, descubriendo secretos oscuros.",
+        "duracion": "127"
+    },
+    {
+        "id": 27,
+        "titulo": "It",
+        "ano": 2017,
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/It-818745141-large.jpg",
+        "descripcion": "Un grupo de niños enfrenta sus miedos al enfrentarse a un payaso maligno llamado Pennywise.",
+        "duracion": "135"
+    },
+    {
+        "id": 28,
+        "titulo": "Midsommar",
+        "ano": 2019,
+        "genero": "Terror",
+        "imagen": "https://m.media-amazon.com/images/I/81sDOJ1NLAL._AC_UF894,1000_QL80_.jpg",
+        "descripcion": "Un grupo de amigos viaja a Suecia para asistir a un festival rural que se convierte en una pesadilla.",
+        "duracion": "147"
+    },
+    {
+        "id": 29,
+        "titulo": "Un lugar en silencio",
+        "ano": 2018,
+        "genero": "Terror",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BZDExZjJkNWUtMWFkNC00MDZiLThkNTEtMWVmYmQ3OGU3ZmM5XkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "En un mundo post-apocalíptico, una familia debe vivir en silencio para evitar criaturas mortales que cazan por el sonido.",
+        "duracion": "90"
+    },
+    {
+        "id": 30,
+        "titulo": "La Casa del Lago",
+        "ano": 2006,
+        "genero": "Terror",
+        "imagen": "https://es.web.img2.acsta.net/pictures/16/02/15/17/03/088859.jpg",
+        "descripcion": "Un extraño fenómeno temporal conecta a dos personas a través de cartas, con un oscuro secreto en el pasado.",
+        "duracion": "99"
+    },
+    {
+        "id": 31,
+        "titulo": "La Noche del Demonio",
+        "ano": 2010,
+        "genero": "Terror",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BZGNhZjRhNjgtNmQ3Ni00OGQzLTkwNmMtNzMzMjc4MTg5ODliXkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "Una familia se ve atrapada en una dimensión oscura, luchando contra fuerzas demoníacas para salvar a su hijo.",
+        "duracion": "103"
+    },
+    {
+        "id": 32,
+        "titulo": "Babadook",
+        "ano": 2014,
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/Babadook-743341165-large.jpg",
+        "descripcion": "Una madre y su hijo se enfrentan a una criatura aterradora de un libro infantil.",
+        "duracion": "93"
+    },
+    {
+        "id": 33,
+        "titulo": "El Aro",
+        "ano": 2002,
+        "genero": "Terror",
+        "imagen": "https://images.justwatch.com/poster/322155034/s718/rings.jpg",
+        "descripcion": "Una periodista investiga una cinta de video maldita que parece predecir la muerte de las personas que la ven.",
+        "duracion": "115"
+    },
+    {
+        "id": 34,
+        "titulo": "La Maldición",
+        "ano": 2004,
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/La_maldiciaon_The_Grudge-616424823-large.jpg",
+        "descripcion": "Una joven madre y su hijo se ven atrapados en la maldición de una casa infestada por un espíritu vengativo.",
+        "duracion": "102"
+    },
+    {
+        "id": 35,
+        "titulo": "El Orfanato",
+        "ano": 2007,
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/El_orfanato-559183806-large.jpg",
+        "descripcion": "Una mujer regresa al orfanato donde creció, solo para descubrir secretos aterradores sobre su pasado.",
+        "duracion": "105"
+    },
+    {
+        "id": 36,
+        "titulo": "Anabelle",
+        "ano": 2014,
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/Annabelle-671994408-large.jpg",
+        "descripcion": "Una muñeca poseída trae una ola de terror a una joven pareja, al desencadenar sucesos paranormales.",
+        "duracion": "98"
+    },
+    {
+        "id": 37,
+        "titulo": "Won't You Be My Neighbor?",
+        "ano": 2018,
+        "genero": "Documental",
+        "imagen": "https://m.media-amazon.com/images/I/71jmvmdgsPL._AC_UF894,1000_QL80_.jpg",
+        "descripcion": "Un emotivo retrato de Fred Rogers, el creador y anfitrión del famoso programa infantil 'Mister Rogers' Neighborhood'.",
+        "duracion": "94"
+    },
+    {
+        "id": 38,
+        "titulo": "13th",
+        "ano": 2016,
+        "genero": "Documental",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/6/6b/13th_%28film%29.png",
+        "descripcion": "Un análisis profundo sobre el sistema penitenciario en Estados Unidos y su vínculo con la esclavitud moderna.",
+        "duracion": "100"
+    },
+    {
+        "id": 39,
+        "titulo": "Jiro Dreams of Sushi",
+        "ano": 2011,
+        "genero": "Documental",
+        "imagen": "https://m.media-amazon.com/images/I/810Fw8dOh4L.jpg",
+        "descripcion": "La historia de Jiro Ono, un maestro del sushi de 85 años, que busca perfeccionar su arte culinario.",
+        "duracion": "81"
+    },
+    {
+        "id": 40,
+        "titulo": "Free Solo",
+        "ano": 2018,
+        "genero": "Documental",
+        "imagen": "https://pics.filmaffinity.com/Free_Solo-205471290-large.jpg",
+        "descripcion": "Un escalador sin cuerdas intenta subir el acantilado más peligroso del mundo, El Capitán en Yosemite.",
+        "duracion": "100"
+    },
+    {
+        "id": 41,
+        "titulo": "The Social Dilemma",
+        "ano": 2020,
+        "genero": "Documental",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/2/27/Social_dilemma_xlg.jpg",
+        "descripcion": "Exempleados de empresas tecnológicas revelan los peligros y manipulaciones detrás de las redes sociales.",
+        "duracion": "94"
+    },
+    {
+        "id": 42,
+        "titulo": "The Last Dance",
+        "ano": 2020,
+        "genero": "Documental",
+        "imagen": "https://pics.filmaffinity.com/El_aultimo_baile_Miniserie_de_TV-389158062-large.jpg",
+        "descripcion": "El recorrido de Michael Jordan y los Chicago Bulls durante su última temporada juntos, llena de tensión y éxitos.",
+        "duracion": "500"
+    },
+    {
+        "id": 43,
+        "titulo": "Making a Murderer",
+        "ano": 2015,
+        "genero": "Documental",
+        "imagen": "https://pics.filmaffinity.com/Making_a_Murderer_Serie_de_TV-769847931-large.jpg",
+        "descripcion": "Un hombre luchando por demostrar su inocencia después de ser acusado erróneamente de un crimen.",
+        "duracion": "840"
+    },
+    {
+        "id": 44,
+        "titulo": "The Dawn Wall",
+        "ano": 2017,
+        "genero": "Documental",
+        "imagen": "https://pics.filmaffinity.com/The_Dawn_Wall-382232552-large.jpg",
+        "descripcion": "El desafío de escalar la pared más difícil del mundo, El Capitán, por dos escaladores legendarios.",
+        "duracion": "100"
+    },
+    {
+        "id": 45,
+        "titulo": "Grizzly Man",
+        "ano": 2005,
+        "genero": "Documental",
+        "imagen": "https://m.media-amazon.com/images/I/91WjmIThZgL._AC_UF894,1000_QL80_.jpg",
+        "descripcion": "El trágico relato de un hombre que vivió entre osos en Alaska y murió de forma inesperada.",
+        "duracion": "103"
+    },
+    {
+        "id": 46,
+        "titulo": "The Cove",
+        "ano": 2009,
+        "genero": "Documental",
+        "imagen": "https://m.media-amazon.com/images/S/pv-target-images/764d715517ab501b041829ef6a7c69982195caf5e81d619bf2246e2ab55d5ca5.jpg",
+        "descripcion": "Una exposición sobre la caza de delfines en Japón y el impacto ecológico de esta práctica.",
+        "duracion": "92"
+    },
+    {
+        "id": 47,
+        "titulo": "The Act of Killing",
+        "ano": 2012,
+        "genero": "Documental",
+        "imagen": "https://www.cinetecamadrid.com/sites/default/files/styles/imagenes_medianas/public/import/img_pelis/foto_652.jpg.webp?itok=1vW8KL7I",
+        "descripcion": "Exterminadores de la dictadura indonesia son entrevistados mientras recrean sus crímenes.",
+        "duracion": "122"
+    },
+    {
+        "id": 48,
+        "titulo": "Searching for Sugar Man",
+        "ano": 2012,
+        "genero": "Documental",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlEpqXdv13KEBnnv7Ryq4-qgT84QLg2xkDg&s",
+        "descripcion": "Dos fans investigan el misterio de Sixto Rodríguez, un músico de los 70 olvidado que inspiró a generaciones.",
+        "duracion": "86"
+    },
+    {
+        "id": 49,
+        "titulo": "The Hangover",
+        "ano": 2009,
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BNDI2MzBhNzgtOWYyOS00NDM2LWE0OGYtOGQ0M2FjMTI2NTllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "descripcion": "Un grupo de amigos intenta reconstruir lo que sucedió durante una despedida de soltero en Las Vegas.",
+        "duracion": "100"
+    },
+    {
+        "id": 50,
+        "titulo": "Superbad",
+        "ano": 2007,
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "Dos adolescentes tratan de conseguir alcohol para una fiesta y hacer su última noche de secundaria épica.",
+        "duracion": "113"
+    },
+    {
+        "id": 51,
+        "titulo": "Anchorman: The Legend of Ron Burgundy",
+        "ano": 2004,
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1_FMjpg_UX1000_.jpg",
+        "descripcion": "Ron Burgundy, un periodista de televisión en los años 70, lucha por mantener su estatus mientras enfrentaba a una reportera rival.",
+        "duracion": "94"
+    },
+    {
+        "id": 52,
+        "titulo": "Step Brothers",
+        "ano": 2008,
+        "genero": "Comedia",
+        "imagen": "https://pics.filmaffinity.com/Hermanos_por_pelotas-811273775-large.jpg",
+        "descripcion": "Dos hombres adultos se convierten en hermanastros y deben aprender a convivir, lo que lleva a situaciones cómicas.",
+        "duracion": "98"
+    },
+    {
+        "id": 53,
+        "titulo": "Dumb and Dumber",
+        "ano": 1994,
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/I/71iOXZHYT-S._AC_UF894,1000_QL80_.jpg",
+        "descripcion": "Dos amigos extremadamente tontos se embarcan en un viaje a través del país con hilarantes resultados.",
+        "duracion": "107"
+    },
+    {
+        "id": 54,
+        "titulo": "The Grand Budapest Hotel",
+        "ano": 2014,
+        "genero": "Comedia",
+        "imagen": "https://i.ebayimg.com/images/g/O8MAAOSw7JlgY74U/s-l400.jpg",
+        "descripcion": "Un conserje de un lujoso hotel en Europa se ve involucrado en el robo de una pintura famosa y en una conspiración.",
+        "duracion": "99"
+    },
+    {
+        "id": 55,
+        "titulo": "The 40-Year-Old Virgin",
+        "ano": 2005,
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/I/71vszuudXlL._AC_UF1000,1000_QL80_.jpg",
+        "descripcion": "Un hombre de 40 años que nunca ha tenido relaciones sexuales intenta perder su virginidad con la ayuda de sus amigos.",
+        "duracion": "116"
+    },
+    {
+        "id": 56,
+        "titulo": "Guardians of the Galaxy",
+        "ano": 2014,
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "descripcion": "Un grupo de inadaptados se une para proteger una piedra poderosa de caer en manos equivocadas.",
+        "duracion": "121"
+    },
+    {
+        "id": 57,
+        "titulo": "21 Jump Street",
+        "ano": 2012,
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMTg2NjJiODctM2IyMS00MmQ5LWI1YmQtNTBjMTI4M2U2YzA5XkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "Dos jóvenes policías se infiltran en una escuela secundaria para desmantelar una red de drogas.",
+        "duracion": "109"
+    },
+    {
+        "id": 58,
+        "titulo": "Hot Fuzz",
+        "ano": 2007,
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BYjFkZTkzZTQtNjM1ZS00M2EyLWE3MTAtMmY5Yzk0NTc0NDc3XkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "Un policía de la ciudad se ve obligado a trasladarse a un tranquilo pueblo, donde descubre extraños sucesos.",
+        "duracion": "121"
+    },
+    {
+        "id": 59,
+        "titulo": "Tropic Thunder",
+        "ano": 2008,
+        "genero": "Comedia",
+        "imagen": "https://pics.filmaffinity.com/Tropic_Thunder_auna_guerra_muy_perra-292327168-large.jpg",
+        "descripcion": "Un grupo de actores se encuentra atrapado en una guerra real mientras filman una película bélica en un país extranjero.",
+        "duracion": "107"
+    },
+    {
+        "id": 60,
+        "titulo": "The Mask",
+        "ano": 1994,
+        "genero": "Comedia",
+        "imagen": "https://play-lh.googleusercontent.com/CyXKoWzn9UTqHqmLM-S6hf9SkbGZm5lbQ7kmCZYe3x6S71YOq6dVO2M4Hfo875yDzIrh",
+        "descripcion": "Un hombre común se convierte en un hombre increíblemente poderoso cuando se pone una máscara mágica.",
+        "duracion": "101"
+    },
+    {
+        "id": 61,
+        "titulo": "Indiana Jones and the Raiders of the Lost Ark",
+        "ano": 1981,
+        "genero": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/S/pv-target-images/66d03ab14e50cec6c4a79604709e8dc48121a606ccb25186cd31ef66a2cef3ee.jpg",
+        "descripcion": "El arqueólogo Indiana Jones se embarca en una peligrosa misión para encontrar el Arca de la Alianza antes que los nazis.",
+        "duracion": "115"
+    },
+    {
+        "id": 62,
+        "titulo": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "ano": 2003,
+        "genero": "Aventura",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png",
+        "descripcion": "El capitán Jack Sparrow se une a un grupo de piratas para enfrentarse a una tripulación maldita que busca venganza.",
+        "duracion": "143"
+    },
+    {
+        "id": 63,
+        "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+        "ano": 2001,
+        "genero": "Aventura",
+        "imagen": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28828_p_v8_ao.jpg",
+        "descripcion": "Un hobbit llamado Frodo y un grupo de aventureros deben destruir un anillo maldito para salvar la Tierra Media.",
+        "duracion": "178"
+    },
+    {
+        "id": 64,
+        "titulo": "Jumanji: Welcome to the Jungle",
+        "ano": 2017,
+        "genero": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "descripcion": "Cuatro adolescentes se ven absorbidos por un juego de video y deben superar desafíos para escapar.",
+        "duracion": "119"
+    },
+    {
+        "id": 65,
+        "titulo": "The Princess Bride",
+        "ano": 1987,
+        "genero": "Aventura",
+        "imagen": "https://play-lh.googleusercontent.com/aw2GjDzp3d-h419_un6_gDzVBRm-dutV-rGOA27LGz6ZBDwbE3ndLwus86-TvSEEHaqe6iQHbXMpX1warpE=w240-h480-rw",
+        "descripcion": "Un joven granjero se embarca en una aventura para rescatar a la princesa Buttercup, enfrentándose a monstruos y traiciones.",
+        "duracion": "98"
+    },
+    {
+        "id": 66,
+        "titulo": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "ano": 2005,
+        "genero": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_FMjpg_UX1000_.jpg",
+        "descripcion": "Cuatro niños viajan a un mundo mágico llamado Narnia, donde luchan contra una malvada bruja para salvar el reino.",
+        "duracion": "143"
+    },
+    {
+        "id": 67,
+        "titulo": "King Kong",
+        "ano": 2005,
+        "genero": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "Un equipo de cineastas viaja a una isla remota donde encuentran un gorila gigante, King Kong, que se convierte en su protector.",
+        "duracion": "187"
+    },
+    {
+        "id": 68,
+        "titulo": "Avatar",
+        "ano": 2009,
+        "genero": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "En el planeta Pandora, un ex-marine es elegido para infiltrarse entre los nativos para ayudar a una corporación minera.",
+        "duracion": "162"
+    },
+    {
+        "id": 69,
+        "titulo": "The Goonies",
+        "ano": 1985,
+        "genero": "Aventura",
+        "imagen": "https://images.fathomevents.com/image/upload/w_2000,dpr_2,f_auto,q_auto/v1731023284/Events/2025/1974/Goonies_1000x1480_TIX.jpg.jpg",
+        "descripcion": "Un grupo de niños emprende una búsqueda para encontrar un tesoro pirata escondido y salvar sus hogares.",
+        "duracion": "114"
+    },
+    {
+        "id": 70,
+        "titulo": "The Secret Life of Walter Mitty",
+        "ano": 2013,
+        "genero": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_.jpg",
+        "descripcion": "Un hombre común, que sueña con aventuras, emprende un viaje por el mundo para encontrar una foto perdida de su revista.",
+        "duracion": "114"
+    },
+    {
+        "id": 71,
+        "titulo": "Jurassic Park",
+        "ano": 1993,
+        "genero": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/I/816wlBnZx2L.jpg",
+        "descripcion": "Un parque temático con dinosaurios clonados de ADN antiguo se convierte en un caos cuando los animales se escapan.",
+        "duracion": "127"
+    },
+    {
+        "id": 72,
+        "titulo": "The Revenant",
+        "ano": 2015,
+        "genero": "Aventura",
+        "imagen": "https://es.web.img2.acsta.net/pictures/15/12/14/16/38/050093.jpg",
+        "descripcion": "Un explorador es dejado por muerto en el desierto y lucha por sobrevivir mientras busca venganza contra aquellos que lo traicionaron.",
+        "duracion": "156"
+    },
+    {
+        "id" : 73,
+        "titulo" : "Hulk",
+        "ano" : 2003,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/6/w1280/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
+        "descripcion" : "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego..",
+        "duracion": 138
+    }
+]

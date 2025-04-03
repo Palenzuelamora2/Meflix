@@ -1,0 +1,44 @@
+@import "parciales/header";
+// variables colores
+$color-principal: #103A38;
+$color-segunda-seccion:#010A4F;
+$color-texto: #FFFFFF;
+$color-texto-hover: #E58B29;
+$color-plan: #438D8E;
+$color-session: #FFFFFF;
+// variable fuentes
+$fuente-estandar: 40px;
+.bebas-neue-regular {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+// generales
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    background-color: #103A38;
+    text-align: center;
+}
+
+.header_login{
+    color: $color-session;
+}

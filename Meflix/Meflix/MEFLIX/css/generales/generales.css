@@ -1,0 +1,26 @@
+.header_logo img {
+  width: 10%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background: linear-gradient(to bottom, #0F3937 40%, #4A1717 100%);
+  color: whitesmoke;
+}/*# sourceMappingURL=generales.css.map */

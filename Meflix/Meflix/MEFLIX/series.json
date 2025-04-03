@@ -1,0 +1,442 @@
+[
+    {
+        "id": 1,
+        "titulo": "Elite",
+        "temporadas": "7 temporadas",
+        "genero": "Accion",
+        "imagen": "https://spainaudiovisualhub.mineco.gob.es/content/dam/seteleco-hub-audiovisual/resources/images/series/elite/%C3%89lite_cartel.jpeg",
+        "descripcion": "Bienvenidos a Las Encinas, el colegio privado más exclusivo de España, donde la élite envía a sus hijos."
+    },
+    {
+        "id": 2,
+        "titulo": "La Casa de Papel",
+        "temporadas": "5 temporadas",
+        "genero": "Accion",
+        "imagen": "https://www.formulatv.com/images/series/posters/1400/1426/dest_1.jpg",
+        "descripcion": "Un grupo de ladrones lleva a cabo un asalto planificado a la Real Casa de la Moneda de España."
+    },
+    {
+        "id": 3,
+        "titulo": "Stranger Things",
+        "temporadas": "4 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://pics.filmaffinity.com/Stranger_Things_Serie_de_TV-875025085-large.jpg",
+        "descripcion": "Un grupo de niños enfrenta fenómenos extraños y criaturas del otro lado de la realidad en un pequeño pueblo."
+    },
+    {
+        "id": 4,
+        "titulo": "The Witcher",
+        "temporadas": "2 temporadas",
+        "genero": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMTQ5MDU5MTktMDZkMy00NDU1LWIxM2UtODg5OGFiNmRhNDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "descripcion": "Geralt de Rivia, un cazador de monstruos, navega un mundo lleno de magia, criaturas y política."
+    },
+    {
+        "id": 5,
+        "titulo": "Friends",
+        "temporadas": "10 temporadas",
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "La vida y las aventuras de seis amigos en Nueva York."
+    },
+    {
+        "id": 6,
+        "titulo": "Breaking Bad",
+        "temporadas": "5 temporadas",
+        "genero": "Accion",
+        "imagen": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/breaking_bad_4.png",
+        "descripcion": "Un profesor de química se convierte en fabricante de metanfetaminas para asegurar el futuro de su familia."
+    },
+    {
+        "id": 7,
+        "titulo": "Black Mirror",
+        "temporadas": "5 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://i.ebayimg.com/images/g/~14AAOSwBEBi1Nwm/s-l1200.jpg",
+        "descripcion": "Antología que examina los impactos de la tecnología en la sociedad moderna."
+    },
+    {
+        "id": 8,
+        "titulo": "Narcos",
+        "temporadas": "3 temporadas",
+        "genero": "Accion",
+        "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2015/8/w1280/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+        "descripcion": "La historia de la vida y la caída de Pablo Escobar, el mayor narcotraficante de la historia."
+    },
+    {
+        "id": 9,
+        "titulo": "The Mandalorian",
+        "temporadas": "3 temporadas",
+        "genero": "Aventura",
+        "imagen": "https://www.ecartelera.com/carteles-series/1100/1164/007_m.jpg",
+        "descripcion": "Un cazarrecompensas navega por la galaxia después de la caída del Imperio."
+    },
+    {
+        "id": 10,
+        "titulo": "The Office",
+        "temporadas": "9 temporadas",
+        "genero": "Comedia",
+        "imagen": "https://pics.filmaffinity.com/The_Office_Serie_de_TV-210023284-large.jpg",
+        "descripcion": "La vida diaria de los empleados en una oficina de ventas de papel."
+    },
+    {
+        "id": 11,
+        "titulo": "Chernobyl",
+        "temporadas": "1 temporada",
+        "genero": "Documentales",
+        "imagen": "https://pics.filmaffinity.com/Chernobyl_Miniserie_de_TV-954795032-large.jpg",
+        "descripcion": "Miniserie sobre el desastre nuclear de Chernobyl y su impacto."
+    },
+    {
+        "id": 12,
+        "titulo": "True Detective",
+        "temporadas": "3 temporadas",
+        "genero": "Terror",
+        "imagen": "https://www.ecartelera.com/carteles-series/000/31/007_m.jpg",
+        "descripcion": "Detectives investigan crímenes oscuros mientras enfrentan sus propios demonios."
+    },
+    {
+        "id": 13,
+        "titulo": "Mindhunter",
+        "temporadas": "2 temporadas",
+        "genero": "Terror",
+        "imagen": "https://www.tuposter.com/pub/media/catalog/product/cache/71d04d62b2100522587d43c930e8a36b/m/i/mindhunter_personajes_p_ster.png",
+        "descripcion": "Agentes del FBI investigan mentes criminales para resolver casos complejos."
+    },
+    {
+        "id": 14,
+        "titulo": "The Crown",
+        "temporadas": "4 temporadas",
+        "genero": "Documentales",
+        "imagen": "https://pics.filmaffinity.com/The_Crown_Serie_de_TV-157527113-large.jpg",
+        "descripcion": "Historia de la vida de la Reina Isabel II y los eventos históricos que marcaron su reinado."
+    },
+    {
+        "id": 15,
+        "titulo": "Money Heist",
+        "temporadas": "5 temporadas",
+        "genero": "Accion",
+        "imagen": "https://cdna.artstation.com/p/assets/images/images/046/103/336/large/illusion-design-money-heist-poster-min.jpg?1644314844",
+        "descripcion": "Un grupo de delincuentes organiza el mayor robo a la Real Casa de la Moneda de España."
+    },
+    {
+        "id": 16,
+        "titulo": "The Walking Dead",
+        "temporadas": "11 temporadas",
+        "genero": "Terror",
+        "imagen": "https://m.media-amazon.com/images/I/81Nzfpz9EpL._AC_UF894,1000_QL80_.jpg",
+        "descripcion": "Sobrevive al apocalipsis zombi mientras luchas por recursos y comunidad."
+    },
+    {
+        "id": 17,
+        "titulo": "Peaky Blinders",
+        "temporadas": "6 temporadas",
+        "genero": "Accion",
+        "imagen": "https://pics.filmaffinity.com/Peaky_Blinders_Serie_de_TV-549874356-large.jpg",
+        "descripcion": "Una familia de gánsteres británicos lucha por expandir su poder después de la Primera Guerra Mundial."
+    },
+    {
+        "id": 18,
+        "titulo": "Dark",
+        "temporadas": "3 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BZTE1YTczZWUtNTI5Ny00NzI0LWFmODctYzZiYzQ3MmRmOWZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "descripcion": "En un pequeño pueblo alemán, niños desaparecen y destapan secretos relacionados con el tiempo."
+    },
+    {
+        "id": 19,
+        "titulo": "The Boys",
+        "temporadas": "3 temporadas",
+        "genero": "Accion",
+        "imagen": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/7/w1280/jBBQ8a7abo8u4iNKp7bsUHkNeW0.jpg",
+        "descripcion": "Un grupo de personas decide enfrentarse a los superhéroes corruptos que abusan de sus poderes."
+    },
+    {
+        "id": 20,
+        "titulo": "The Umbrella Academy",
+        "temporadas": "3 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2019/2/w1280/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+        "descripcion": "Hijos adoptivos con poderes especiales se reúnen para resolver el misterio de la muerte de su padre."
+    },
+    {
+        "id": 21,
+        "titulo": "Scream",
+        "temporadas": "5 temporadas",
+        "genero": "Terror",
+        "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2015/6/w1280/cb2WD75HjajBmFtPzfU5ukGqfeo.jpg",
+        "descripcion": "Un asesino enmascarado acecha a un grupo de adolescentes en un pequeño pueblo."
+    },
+    {
+        "id": 22,
+        "titulo": "Bojack Horseman",
+        "temporadas": "6 temporadas",
+        "genero": "Comedia",
+        "imagen": "https://pics.filmaffinity.com/BoJack_Horseman_Serie_de_TV-731137754-large.jpg",
+        "descripcion": "Un actor de televisión caído en desgracia intenta encontrar el propósito en su vida."
+    },
+    {
+        "id": 23,
+        "titulo": "Naruto",
+        "temporadas": "5 temporadas",
+        "genero": "Aventura",
+        "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/01/02/17041981055312.jpg",
+        "descripcion": "Un joven ninja busca ser el líder de su aldea mientras enfrenta desafíos personales."
+    },
+    {
+        "id": 24,
+        "titulo": "Our Planet",
+        "temporadas": "1 temporada",
+        "genero": "Documentales",
+        "imagen": "https://pics.filmaffinity.com/Nuestro_planeta_Serie_de_TV-316839559-large.jpg",
+        "descripcion": "Documental sobre la belleza natural del planeta y los problemas ecológicos."
+    },
+    {
+        "id": 25,
+        "titulo": "The Expanse",
+        "temporadas": "6 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BYzUyYmI3MjctY2Q2MC00NmFjLTgwZGUtNWQzZWNlYmVjNzE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "descripcion": "En un futuro donde la humanidad ha colonizado el sistema solar, se desata una guerra interplanetaria."
+    },
+    {
+        "id": 26,
+        "titulo": "Fargo",
+        "temporadas": "4 temporadas",
+        "genero": "Terror",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt2mwiNYJ1W_XKhx67epLlzUuLnv6R2zZT91ZlaYopL8GRZ3_J2lGyPMKGmkWvHPN-OTph9Jsmd226N1hJeZyq9LqsBqIRftSZeDlo1hdZNLGCScwCiGumf4Ztfy91UYv-GTIQIu2jNMs/s1600/Fargo+3.jpg",
+        "descripcion": "Serie de antología de crímenes con humor negro y giros inesperados."
+    },
+    {
+        "id": 27,
+        "titulo": "Lupin",
+        "temporadas": "2 temporadas",
+        "genero": "Accion",
+        "imagen": "https://www.orientaserie.it/wp-content/uploads/2022/09/lupin-vert.webp",
+        "descripcion": "Un ladrón con habilidades excepcionales se inspira en Arsène Lupin para vengar a su padre."
+    },
+    {
+        "id": 28,
+        "titulo": "Narcos: Mexico",
+        "temporadas": "3 temporadas",
+        "genero": "Accion",
+        "imagen": "https://i.pinimg.com/474x/ca/87/bc/ca87bc0b749ff376e25692309c55c23d.jpg",
+        "descripcion": "La guerra del narcotráfico en México a través de los ojos de los cárteles y la policía."
+    },
+    {
+        "id": 29,
+        "titulo": "The Punisher",
+        "temporadas": "2 temporadas",
+        "genero": "Accion",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapb6QrVMPbFoAUOw-iFn92lRJWNKH1BVXGA&s",
+        "descripcion": "Frank Castle, un ex-soldado, se convierte en un justiciero implacable tras la muerte de su familia."
+    },
+    {
+        "id": 30,
+        "titulo": "Altered Carbon",
+        "temporadas": "2 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://www.formulatv.com/images/series/posters/1600/1625/dest_1.jpg",
+        "descripcion": "En un futuro donde las mentes humanas pueden transferirse a nuevos cuerpos, un ex-soldado investiga un asesinato."
+    },
+    {
+        "id": 31,
+        "titulo": "Westworld",
+        "temporadas": "4 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/b9/dc/09b9dcef-70c1-d41f-2f4b-aee1973cdfd8/794043191107.jpg/1200x1200bb.jpg",
+        "descripcion": "En un parque temático futurista, los robots desarrollan conciencia mientras los visitantes exploran mundos de fantasía."
+    },
+    {
+        "id": 32,
+        "titulo": "Black Lightning",
+        "temporadas": "4 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://pics.filmaffinity.com/Black_Lightning_Serie_de_TV-486144057-large.jpg",
+        "descripcion": "Un ex-superhéroe lucha por proteger su ciudad y su familia después de que sus poderes regresan."
+    },
+    {
+        "id": 33,
+        "titulo": "The 100",
+        "temporadas": "7 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://pics.filmaffinity.com/Los_100_Serie_de_TV-674895049-large.jpg",
+        "descripcion": "Un grupo de adolescentes es enviado a la Tierra para evaluar su habitabilidad después de una catástrofe nuclear."
+    },
+    {
+        "id": 34,
+        "titulo": "Star Trek: Discovery",
+        "temporadas": "4 temporadas",
+        "genero": "Ciencia Ficción",
+        "imagen": "https://pics.filmaffinity.com/Star_Trek_Discovery_Serie_de_TV-349570845-large.jpg",
+        "descripcion": "La nave Discovery explora el universo mientras enfrentan amenazas y descubren secretos en una era nueva de Star Trek."
+    },
+    {
+        "id": 35,
+        "titulo": "The Witcher: Blood Origin",
+        "temporadas": "1 temporada",
+        "genero": "Aventura",
+        "imagen": "https://pics.filmaffinity.com/The_Witcher_El_origen_de_la_sangre_Miniserie_de_TV-196416816-large.jpg",
+        "descripcion": "Precuela de ‘The Witcher’, que explora los orígenes del primer brujo y el evento que cambió el mundo."
+    },
+    {
+        "id": 36,
+        "titulo": "Game of Thrones",
+        "temporadas": "8 temporadas",
+        "genero": "Aventura",
+        "imagen": "https://static.posters.cz/image/1300/posters/game-of-thrones-season-1-key-art-i161816.jpg",
+        "descripcion": "Familias nobles luchan por el control del Trono de Hierro en un mundo medieval lleno de magia y traiciones."
+    },
+    {
+        "id": 37,
+        "titulo": "Vikings",
+        "temporadas": "6 temporadas",
+        "genero": "Aventura",
+        "imagen": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2019/10/Vikings-S6-_Key-Art.jpg",
+        "descripcion": "La vida de Ragnar Lothbrok, un legendario héroe vikingo, mientras navega por la guerra y la exploración."
+    },
+    {
+        "id": 38,
+        "titulo": "The Lord of the Rings: The Rings of Power",
+        "temporadas": "2 temporadas",
+        "genero": "Aventura",
+        "imagen": "https://i0.wp.com/therunneronline.com/wp-content/uploads/2022/11/RingsOfPower_LOTR.jpg?resize=380%2C475&ssl=1",
+        "descripcion": "El relato de los eventos que preceden a ‘El Señor de los Anillos’, explorando la creación de los anillos de poder."
+    },
+    {
+        "id": 39,
+        "titulo": "The Mandalorian",
+        "temporadas": "1 temporada",
+        "genero": "Aventura",
+        "imagen": "https://www.orientaserie.it/wp-content/uploads/2022/09/IMG_1071-scaled-1.jpeg",
+        "descripcion": "El Mandaloriano continúa su viaje mientras se enfrenta a nuevos enemigos y descubre más sobre ‘El Niño’."
+    },
+    {
+        "id": 40,
+        "titulo": "Sherlock",
+        "temporadas": "4 temporadas",
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/S/pv-target-images/2ca6e92e9ba513eb3c07dd6d2966fb55d7bc83432a618b213ba17cb8a2225aba.jpg",
+        "descripcion": "Sherlock Holmes y Watson resuelven complejos casos en la Londres moderna con su aguda mente y tácticas poco convencionales."
+    },
+    {
+        "id": 41,
+        "titulo": "Brooklyn Nine-Nine",
+        "temporadas": "8 temporadas",
+        "genero": "Comedia",
+        "imagen": "https://es.web.img2.acsta.net/pictures/16/08/04/17/22/013497.jpg",
+        "descripcion": "Un grupo de detectives de la policía de Nueva York trabaja en un ambiente de comedia mientras resuelven crímenes."
+    },
+    {
+        "id": 42,
+        "titulo": "How I Met Your Mother",
+        "temporadas": "9 temporadas",
+        "genero": "Comedia",
+        "imagen": "https://pics.filmaffinity.com/Caomo_conocai_a_vuestra_madre_Serie_de_TV-869966709-large.jpg",
+        "descripcion": "Ted Mosby le cuenta a sus hijos la larga historia de cómo conoció a su madre mientras navega por los altibajos de la vida."
+    },
+    {
+        "id": 43,
+        "titulo": "The Good Place",
+        "temporadas": "4 temporadas",
+        "genero": "Comedia",
+        "imagen": "https://pics.filmaffinity.com/The_Good_Place_Serie_de_TV-551414402-large.jpg",
+        "descripcion": "Una mujer se encuentra en el más allá y descubre que no pertenece al ‘bueno’ lugar, mientras lucha por mejorar."
+    },
+    {
+        "id": 44,
+        "titulo": "Parks and Recreation",
+        "temporadas": "7 temporadas",
+        "genero": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BNDI3ODVmOTktYWQ3Zi00NjkyLThiODktMjU1ZjE3YzhhNWE3XkEyXkFqcGc@._V1_.jpg",
+        "descripcion": "Un grupo de empleados de la oficina de parques y recreación de una pequeña ciudad en Indiana enfrenta situaciones absurdas."
+    },
+    {
+        "id": 45,
+        "titulo": "Chernobyl",
+        "temporadas": "1 temporada",
+        "genero": "Documentales",
+        "imagen": "https://pics.filmaffinity.com/Chernobyl_Miniserie_de_TV-540034923-large.jpg",
+        "descripcion": "Miniserie que relata el desastre nuclear de Chernobyl y el impacto global y local del accidente."
+    },
+    {
+        "id": 46,
+        "titulo": "Our Planet: With David Attenborough",
+        "temporadas": "1 temporada",
+        "genero": "Documentales",
+        "imagen": "https://pics.filmaffinity.com/Nuestro_planeta_Serie_de_TV-316839559-large.jpg",
+        "descripcion": "Documental sobre la belleza de la naturaleza y las amenazas que enfrenta debido al cambio climático."
+    },
+    {
+        "id": 47,
+        "titulo": "Making a Murderer",
+        "temporadas": "2 temporadas",
+        "genero": "Documentales",
+        "imagen": "https://pics.filmaffinity.com/Making_a_Murderer_Serie_de_TV-769847931-large.jpg",
+        "descripcion": "La historia real de Steven Avery, quien fue condenado y luego exonerado de un crimen, solo para ser acusado de otro."
+    },
+    {
+        "id": 48,
+        "titulo": "The Last Dance",
+        "temporadas": "1 temporada",
+        "genero": "Documentales",
+        "imagen": "https://pics.filmaffinity.com/El_aultimo_baile_Miniserie_de_TV-888057621-large.jpg",
+        "descripcion": "Documental sobre Michael Jordan y los Chicago Bulls durante su última temporada juntos en la NBA."
+    },
+    {
+        "id": 49,
+        "titulo": "Tiger King",
+        "temporadas": "1 temporada",
+        "genero": "Documentales",
+        "imagen": "https://pics.filmaffinity.com/Tiger_King_Miniserie_de_TV-963841660-large.jpg",
+        "descripcion": "Un extravagante dueño de zoológico enfrenta cargos mientras se enredan secretos en su imperio de animales salvajes."
+    },
+    {
+        "id": 50,
+        "titulo": "Inside the Vatican",
+        "temporadas": "1 temporada",
+        "genero": "Documentales",
+        "imagen": "https://image.pbs.org/contentchannels/2skWFAQ-show-poster2x3-aVry9ij.jpg",
+        "descripcion": "Una mirada detrás de las puertas del Vaticano, explorando la vida de los sacerdotes y el complejo sistema de la Iglesia."
+    },
+    {
+        "id": 51,
+        "titulo": "The Walking Dead: World Beyond",
+        "temporadas": "2 temporadas",
+        "genero": "Terror",
+        "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2020/10/w1280/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg",
+        "descripcion": "Un grupo de adolescentes trata de sobrevivir en un mundo post-apocalíptico con zombis y nuevos peligros."
+    },
+    {
+        "id": 52,
+        "titulo": "Bates Motel",
+        "temporadas": "5 temporadas",
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/Bates_Motel_Serie_de_TV-725278695-large.jpg",
+        "descripcion": "Precuela de ‘Psicosis’, donde se sigue la relación entre Norman Bates y su madre mientras él comienza a volverse loco."
+    },
+    {
+        "id": 53,
+        "titulo": "The Haunting of Hill House",
+        "temporadas": "1 temporada",
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/La_maldiciaon_de_Hill_House_Serie_de_TV-172762742-large.jpg",
+        "descripcion": "Una familia regresa a la mansión donde crecieron, donde los recuerdos y los espíritus oscuros aún los acechan."
+    },
+    {
+        "id": 54,
+        "titulo": "American Horror Story",
+        "temporadas": "10 temporadas",
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/American_Horror_Story_La_casa_del_crimen_Miniserie_de_TV-705110012-large.jpg",
+        "descripcion": "Serie de antología que explora diversos temas de horror, desde fantasmas hasta criaturas sobrenaturales."
+    },
+    {
+        "id": 55,
+        "titulo": "Stranger Things",
+        "temporadas": "4 temporadas",
+        "genero": "Terror",
+        "imagen": "https://pics.filmaffinity.com/Stranger_Things_Serie_de_TV-875025085-large.jpg",
+        "descripcion": "Un grupo de niños enfrenta fenómenos extraños y criaturas del otro lado de la realidad en un pequeño pueblo."
+    }
+]

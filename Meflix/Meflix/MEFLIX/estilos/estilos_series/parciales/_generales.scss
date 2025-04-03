@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to bottom, #0F3937 40%, #4A1717 100%);
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}

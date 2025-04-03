@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "url": "https://hips.hearstapps.com/hmg-prod/images/el-sen-or-de-los-anillos-los-anillos-de-poder-66d6de11d8885.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 2,
+        "url": "https://i0.wp.com/www.hd.com.do/wp-content/uploads/2021/03/original_1616146233_LOKI-Poster.jpg?resize=1290%2C1912&ssl=1",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 3,
+        "url": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/tLnYIbkIKhNbAKzhawKqcY9dmxk.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 4,
+        "url": "https://www.bizcochito.es/Films/Poster/tt14513804.webp",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 5,
+        "url": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/1/w300/wsfOvNfUGogZGfSDfMN4hCOM1kR.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 6,
+        "url": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Las_dos_torres-450612576-large.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 7,
+        "url": "https://moviepostermexico.com/cdn/shop/products/134556_2048x.jpg?v=1652236852",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 8,
+        "url": "https://es.web.img3.acsta.net/pictures/19/03/22/10/08/5883111.jpg?coixp=50&coiyp=40",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    }
+]
+
+

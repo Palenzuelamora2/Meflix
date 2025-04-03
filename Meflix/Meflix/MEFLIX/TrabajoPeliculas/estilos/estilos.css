@@ -1,0 +1,274 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background: linear-gradient(to bottom, #4A1717 0%, #0F3937 120%);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+#h1 {
+  color: white;
+  font-family: "Bebas";
+  text-align: center;
+  margin-bottom: 60px;
+  font-weight: bold;
+  margin-top: 10px;
+  font-family: "Bebas Neue", serif;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.enlaces {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.enlaces i {
+  color: white;
+  font-weight: bold;
+  margin-right: 100px;
+}
+
+.tarjeta {
+  width: 200px;
+  height: 100px;
+  margin-bottom: 20px;
+  margin: auto;
+  margin-top: 20px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+}
+.tarjeta .detalles {
+  display: none;
+  position: absolute;
+}
+
+.tarjeta:hover {
+  transform: scale(1.05);
+  transition: all 300ms;
+  opacity: 0.8;
+  width: 80%;
+  padding: 2px;
+}
+.tarjeta:hover .detalles {
+  display: block;
+  align-items: center;
+  margin-top: 5px;
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  margin-top: 2px;
+  bottom: 0;
+  opacity: 0.8;
+  padding: 10px;
+}
+.tarjeta:hover .detalles p, .tarjeta:hover .detalles h4 {
+  color: white;
+  width: 100%;
+}
+.tarjeta:hover .detalles img {
+  color: white;
+  border-radius: 5px;
+}
+.tarjeta:hover .detalles .button {
+  width: 70%;
+  text-align: center;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+}
+.tarjeta:hover .detalles .button:hover {
+  background-color: white;
+  color: black;
+}
+
+.tarjeta img {
+  width: 100%;
+  height: 315px;
+}
+
+#card {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  margin-top: 10px;
+}
+
+#card p {
+  padding: 5px;
+}
+
+.contenedor_footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+/**/
+@media (min-width: 576px) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+  }
+  .header #logo {
+    width: 200px;
+  }
+  .enlaces button {
+    display: none;
+  }
+  .contenedor_botones {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: auto;
+    padding: 3%;
+  }
+  .contenedor_botones .terror {
+    display: none;
+  }
+  .contenedor_botones button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 500px;
+    height: 50px;
+  }
+  #card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+  }
+  .contenedor {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 50px;
+  }
+}
+@media (min-width: 768px) {
+  .header {
+    display: flex;
+  }
+  .header #logo {
+    width: 300px;
+  }
+  .enlaces button {
+    display: none;
+  }
+  .contenedor_botones {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: auto;
+    padding: 3%;
+  }
+  .contenedor_botones .terror {
+    display: none;
+  }
+  .contenedor_botones button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 500px;
+    height: 50px;
+  }
+  #card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 20px;
+  }
+  .contenedor {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 50px;
+  }
+}
+@media (min-width: 992px) {
+  .header {
+    display: flex;
+  }
+  .header #logo {
+    width: 300px;
+  }
+  .enlaces button {
+    display: block;
+    height: 50px;
+  }
+  .contenedor_botones {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: auto;
+    padding: 3%;
+  }
+  .contenedor_botones .terror {
+    display: none;
+  }
+  .contenedor_botones button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 500px;
+    height: 50px;
+  }
+  #card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 20px;
+  }
+  .contenedor {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 50px;
+  }
+}
+@media (min-width: 1200px) {
+  .header {
+    display: flex;
+  }
+  .header #logo {
+    width: 400px;
+  }
+  .enlaces button {
+    display: block;
+  }
+  .contenedor_botones {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: 3%;
+  }
+  .contenedor_botones .terror {
+    display: block;
+  }
+  .contenedor_botones button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 500px;
+    height: 50px;
+  }
+  #card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    padding: 20px;
+  }
+  .contenedor {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 50px;
+  }
+}/*# sourceMappingURL=estilos.css.map */

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SeriesMeflix</title>
+    <link rel="stylesheet" href="estilos/estilos_series/main.css">
+    <script src="js/detalle_serie.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body class="container">
+    <div class="player-container">
+        <button class="volver-btn"><a href="series.html">⬅ Volver </a></button>
+        <video id="trailer" controls loop>
+            <source src="videos/StrangerThings.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="descripcion_pelicula">
+        <h1>Stranger Things - Temporada 1</h1>
+        <ul>
+            <li>
+                <h3>2016</h3>
+            </li>
+            <li>
+                <div>
+                    <h3>+14</h3>
+                </div>
+            </li>
+            <li>
+                <h3>70m</h3>
+            </li>
+        </ul>
+        <div class="botones">
+            <p>Ambientada en la década de 1980 en el pueblo ficticio de Hawkins, Indiana, la historia comienza con la
+                misteriosa desaparición de un niño, Will Byers, lo que desencadena una serie de eventos sobrenaturales.
+                Un grupo de amigos, junto con una niña con poderes telequinéticos llamada Eleven, se enfrentará a
+                oscuros experimentos gubernamentales, criaturas de otra dimensión y amenazas que pondrán a prueba su
+                amistad y valentía.
+            </p>
+            <div class="botones_reproducir">
+                <button type="button" class="btn btn-light boton_reproducir"><i
+                        class="bi bi-play-fill"></i>Reproducir</button>
+                <button type="button" class="btn btn-light boton_descargar"><i
+                        class="bi bi-download"></i>Descargar</button>
+            </div>
+
+            <ul class="valoraciones">
+                <li onclick=cambiarColor(this)><i class="bi bi-check-lg"></i></li>
+                <li onclick=cambiarColor(this)><i class="bi bi-journal-check"></i></li>
+                <li onclick=cambiarColor(this)><i class="bi bi-send"></i></li>
+            </ul>
+            <hr>
+            <div class="capitulos">
+                <div class="capitulo">
+                    <img src="images/ep1.jpg" alt="Episodio 1">
+                    <div class="descripcion_capitulo">
+                        <h2>Episodio 1: La desaparición de Will Byers</h2>
+                        <p>En la noche del 6 de noviembre de 1983, en el Laboratorio Nacional de Hawkins, un científico
+                            corre desesperadamente por un pasillo oscuro para alcanzar un ascensor. Cuando el ascensor
+                            llega, el hombre parece estar a salvo, pero luego algo gruñe por encima de él. Cuando las
+                            puertas se cierran, el hombre es cazado por una fuerza desconocida.</p>
+                    </div>
+                </div>
+                <div class="capitulo">
+                    <img src="images/ep2.jpg" alt="Episodio 1">
+                    <div class="descripcion_capitulo">
+                        <h2>Episodio 2: La loca de la calle Maple</h2>
+                        <p>Dustin, Lucas y Mike traen a la chica que encontraron en el bosque a casa de Mike. Estos se
+                            dan cuenta de que tiene un comportamiento raro e inusual. Mike la lleva al baño de su sótano
+                            para que se cambie. Mientras tanto, los chicos discuten sobre la niña. Lucas teoriza que
+                            podría ser una enferma mental que se ha escapado de algún asilo.</p>
+                    </div>
+                </div>
+                <div class="capitulo">
+                    <img src="images/ep3.jpg" alt="Episodio 1">
+                    <div class="descripcion_capitulo">
+                        <h2>Episodio 3: Luces de Navidad</h2>
+                        <p>Dustin, Lucas y Mike traen a la chica que encontraron en el bosque a casa de Mike. Estos se
+                            dan cuenta de que tiene un comportamiento raro e inusual. Mike la lleva al baño de su sótano
+                            para que se cambie. Mientras tanto, los chicos discuten sobre la niña. Lucas teoriza que
+                            podría ser una enferma mental que se ha escapado de algún asilo.</p>
+                    </div>
+                </div>
+                <div class="capitulo">
+                    <img src="images/ep4.jpg" alt="Episodio 1">
+                    <div class="descripcion_capitulo">
+                        <h2>Episodio 4: El cadáver</h2>
+                        <p>Dustin, Lucas y Mike traen a la chica que encontraron en el bosque a casa de Mike. Estos se
+                            dan cuenta de que tiene un comportamiento raro e inusual. Mike la lleva al baño de su sótano
+                            para que se cambie. Mientras tanto, los chicos discuten sobre la niña. Lucas teoriza que
+                            podría ser una enferma mental que se ha escapado de algún asilo.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h1 class="similares">Similares</h1>
+        <hr>
+        <div id="similares">
+
+        </div>
+    </div>
+</body>
+
+</html>

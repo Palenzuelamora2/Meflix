@@ -1,0 +1,277 @@
+.container {
+  width: 100%;
+  margin: auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+
+
+.volver-btn {
+  display: block;
+  width: fit-content;
+  margin: 20px ;
+  padding: 10px 20px;
+  background: rgba(219, 11, 11, 0.456);
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.volver-btn:hover {
+  background: #cc0000;
+}
+
+.player-container video {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  padding: 20px;
+}
+
+.descripcion_pelicula {
+  width: 95%;
+  margin: 19px auto;
+  text-align: center;
+  align-items: center;
+}
+
+.descripcion_pelicula h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.descripcion_pelicula ul {
+  margin-left: -10px;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+}
+
+.descripcion_pelicula li {
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.descripcion_pelicula li div {
+  color: #fff;
+  background-color: rgba(251, 239, 5, 0.456);
+  width: 100px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.botones {
+  margin-bottom: 30px;
+}
+
+.botones_reproducir {
+  margin-top: 20px;
+}
+
+.boton_reproducir,
+.boton_descargar {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  font-size: 1.2rem;
+  border-radius: 8px;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.boton_reproducir {
+  background-color: rgba(241, 3, 3, 0.3);
+  color: white;
+}
+
+.boton_descargar {
+  background-color: #6c757d;
+  color: white;
+}
+
+.boton_reproducir:hover {
+  background-color: #a41306;
+}
+
+.boton_descargar:hover {
+  background-color: #48a705;
+  /* Un color más oscuro para el hover */
+}
+
+.valoraciones {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+#similares {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  padding: 20px 0;
+  justify-content: space-around;
+  transition: all 0.5s ease;
+}
+
+.similar-movie {
+  width: 180px;
+  text-align: center;
+  background-color: #2c2f36;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.similar-movie img {
+  width: auto; /* Ancho fijo */
+  height: 170px; /* Alto fijo */
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+/* 🎬 Efecto de zoom y sombra */
+.similar-movie:hover {
+  transform: translateY(-10px) scale(1.05);
+  /* Hace un pequeño "lift" para un efecto más elegante */
+  box-shadow: 0 6px 18px rgba(241, 3, 3, 0.3);
+  /* Sombra más intensa */
+}
+
+.similar-movie:hover img {
+  transform: scale(1.2);
+  /* Hace zoom en la imagen */
+}
+
+/* 🎬 Efecto de inclinación a la imagen */
+.similar-movie:hover img {
+  transform: rotate(-5deg);
+
+}
+
+/* 🎬 Línea separadora */
+hr {
+  border: 2px solid #810e0e;
+  margin-bottom: 30px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Estilo para los íconos cuando están marcados */
+.valoraciones li .checked {
+  color: #28a745;
+  /* Color verde cuando está marcado */
+  transform: scale(1.4);
+  /* Hace un pequeño zoom para resaltar */
+  transition: transform 0.3s ease;
+  /* Transición suave */
+}
+
+.valoraciones li {
+  font-size: 1.5rem;
+  color: #555;
+  /* Color base */
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.valoraciones li:hover {
+  transform: scale(1.1);
+  /* Zoom al pasar el mouse */
+}
+
+/*# sourceMappingURL=main.css.map */
+
+
+/* CSS DE LAS SERIES  */
+.capitulos {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.capitulo {
+  padding: 15px;
+  background-color: #333;
+  border-radius: 5px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  transition: transform 0.5s ease-in-out, background-color 0.5s ease-in-out;
+}
+
+.capitulo img {
+  width: 200px;
+
+  border-radius: 5px;
+}
+
+.capitulo h2 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+.capitulo p {
+  margin: 0 0 10px 0;
+  font-size: 14px;
+  color: #bbb;
+}
+
+.descripcion_capitulo {
+  text-align: center;
+
+}
+
+.capitulo:hover {
+  transform: scale(1.05);
+  background-color: #444;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(241, 3, 3, 0.3);
+}
+
+
+
+/* RESPONSIVE */
+
+
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  #similares {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .capitulo {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .capitulo img {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .capitulo h2 {
+    font-size: 16px;
+  }
+
+  .capitulo p {
+    font-size: 12px;
+  }
+
+}
